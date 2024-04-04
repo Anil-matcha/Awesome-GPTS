@@ -39,6 +39,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Provides verification with live links.
 - [File Converter](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter) - Assists in converting files between different formats.
 - [File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata) - Upload and generate metadata for image and text files.
+- [Forms, Checklists & Workflows](https://chat.openai.com/g/g-yRy2XuCMc-forms-checklists-workflows) - Create Assignable Forms, Checklists & Workflows via Prompts.
 - [Gantt Chart GPT](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt) - This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc)
 - [GPT Action Builder](https://chat.openai.com/g/g-a3N9FUZLN-gpt-action-builder) - Helps users setup an action for a custom GPT, including configuration of the API specification
 - [GPT Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide) - Helpful and informative.
