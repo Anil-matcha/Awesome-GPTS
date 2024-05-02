@@ -67,6 +67,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Bias Detector](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector) - Analyzes news stories for right or left biases.
 - [Cakes](https://chat.openai.com/g/g-iR4UIvIX2-cakes) - Send a gift to your cares
 - [Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story) - Collaborative storytelling across different genres.
+- [Chat Painter](https://chat.openai.com/g/g-MlnIZE08v-chat-painter) - Your Personal Digital Artist to help you generate images and iteratively refine them via a conversation.
 - [Cold Mail](https://chat.openai.com/g/g-iVolzNwa5-cold-mail-by-domore-ai) - Engage prospective customers using personalized cold emails based on your offer's URL and the URL of the customer's website.
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint) - I challenge ideas to provoke thought.
 - [Cover Letter GPT](https://chat.openai.com/g/g-MYSzNumup-cover-letter-gpt) - Expert in creating tailored cover letters based on job descriptions
