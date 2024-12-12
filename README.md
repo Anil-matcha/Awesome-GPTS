@@ -17,6 +17,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Technical Assistance](#technical-assistance)
 - [Writing and Content Creation](#writing-and-content-creation)
 - [Coding and Development](#coding-and-development)
+- [Cybersecurity](#cybersecurity)
 - [Entertainment and Fun](#entertainment-and-fun)
 - [Education and Learning](#education-and-learning)
 - [Career and Guidance](#career-and-guidance)
@@ -143,6 +144,9 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) - Perform 3rd party software security review.
 - [Rust Mentor](https://chat.openai.com/g/g-DDKjGVW8S-rust-mentor) - A Rust programming language instructor for beginners.
 - [Pineapple Builder](https://chat.openai.com/g/g-lKokXPt0b-pineapple-builder-gpt-website-builder) - Create and Publish Business Websites and Blogs.
+
+## Cybersecurity
+- [CavalierGPT](https://chatgpt.com/g/g-Rddxw5Vyc-cavaliergpt) - Get detailed insights into domains, emails, usernames, IPs, keywords, and cybersecurity trends to uncover threats and enhance security.
 
 ## Entertainment and Fun
 - [20 Questions](https://chat.openai.com/g/g-tDUzfZTxo-20-questions) - Play the game "20 Questions" against ChatGPT
